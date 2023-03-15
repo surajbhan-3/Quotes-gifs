@@ -23,7 +23,7 @@
 
  <pre>
  <code>
- ![](https://user-images.githubusercontent.com/80870870/225319729-8ac09816-427c-4a71-8e57-3f53224545a1.gif)
+ [![](https://user-images.githubusercontent.com/80870870/225319729-8ac09816-427c-4a71-8e57-3f53224545a1.gif)](https://github.com/surajbhan-3/Quotes-gifs)
 </code>
  </pre>
 <hr>
@@ -36,7 +36,7 @@
 
  <pre>
  <code>
- ![](https://user-images.githubusercontent.com/80870870/225319765-bd7a18f6-1a9c-484c-ad98-b047b108e158.gif)
+ [![](https://user-images.githubusercontent.com/80870870/225319765-bd7a18f6-1a9c-484c-ad98-b047b108e158.gif)](https://github.com/surajbhan-3/Quotes-gifs)
 </code>
  </pre>
 <hr>
