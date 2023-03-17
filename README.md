@@ -235,6 +235,9 @@
 
 
 
+
+
+
 ![https://github.com/surajbhan-3/Quotes-gifs](https://user-images.githubusercontent.com/80870870/225320284-3ff81c8b-76c9-42a8-895a-d9838e3a89ec.gif)
 
  <pre>
@@ -284,4 +287,16 @@
 
 </code>
  </pre>
+ 
+ <hr>
+ 
+ ![quotes-gifs (1)](https://user-images.githubusercontent.com/80870870/225890233-210365bb-a59f-4a04-a0fa-c5966d39e080.gif)
+ 
+ <pre>
+ <code>
+[![quotes-gifs (1)](https://user-images.githubusercontent.com/80870870/225890233-210365bb-a59f-4a04-a0fa-c5966d39e080.gif)](https://github.com/surajbhan-3/Quotes-gifs)
+</code>
 <hr>
+
+
+
