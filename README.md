@@ -13,10 +13,6 @@
  </pre>
 <hr>
 
-
-
-
-
 ![](https://user-images.githubusercontent.com/80870870/225319729-8ac09816-427c-4a71-8e57-3f53224545a1.gif)
 
 
@@ -52,7 +48,6 @@
 <hr>
 
 
-
 ![](https://user-images.githubusercontent.com/80870870/225267076-e45b5b8f-ba26-490c-8662-fdc1201cdcee.gif)
  <pre>
  <code>
@@ -86,7 +81,6 @@
 
 ![](https://user-images.githubusercontent.com/80870870/225319912-5b4a3476-afb1-4232-b6d2-9dac8446dc51.gif)
 
-
  <pre>
  <code>
 [![](https://user-images.githubusercontent.com/80870870/225319912-5b4a3476-afb1-4232-b6d2-9dac8446dc51.gif)](https://github.com/surajbhan-3/Quotes-gifs)
@@ -106,7 +100,6 @@
 
 
 ![](https://user-images.githubusercontent.com/80870870/225319944-379fea3f-b6c4-43a0-a0b4-0a1e82806b0a.gif)
-
 
  <pre>
  <code>
